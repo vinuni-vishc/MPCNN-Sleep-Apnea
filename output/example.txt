@@ -1,0 +1,1 @@
+After run the CNN model the file .csv will save in here. Please run the file test_per_recording.ipynb to get the per-recording result.
