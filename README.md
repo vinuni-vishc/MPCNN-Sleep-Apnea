@@ -39,3 +39,6 @@ After finishing the per-recording classification and extracting the CSV file, go
 
 # Email
 If you have any question, please don't hesitate to contact me at 21hieu.nx@vinuni.edu.vn
+
+# Acknowledgement
+We would like to thank the authors JackAndCole and Bettycxh for their open-source immplementations for:  [LeNet5](https://github.com/JackAndCole/Sleep-apnea-detection-through-a-modified-LeNet-5-convolutional-neural-network), [BAFNet](https://github.com/Bettycxh/Bottleneck-Attention-Based-Fusion-Network-for-Sleep-Apnea-Detection) and [SEMSCNN](https://github.com/Bettycxh/Toward-Sleep-Apnea-Detection-with-Lightweight-Multi-scaled-Fusion-Network).
